@@ -1,2 +1,7 @@
 # SendEmail
-Send E-Mail via Gmail in Python
+This Python code snippet allows the user to send mail via Gmail
+
+# How to Run
+python send_email.py
+
+
