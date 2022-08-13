@@ -40,7 +40,7 @@ class SendEmail:
             
             context = ssl.create_default_context()
             server.starttls(context=context) # Secure the connection
-            server.login(self.username, self.password)                
+            server.login(self.username, self.password)   # Use your Gmail username and App password here              
             server.sendmail(self.username, recipient_email_address, msg.as_string())
       
         except Exception as e:
