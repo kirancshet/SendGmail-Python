@@ -25,4 +25,4 @@ Follow me for more updates here:
 
 - [Twitter](https://twitter.com/sapnaedu)
 - [LinkedIn](https://www.linkedin.com/in/kiranchandrashekhar/)
-- [Email](kiran.chandrashekhar@gmail.com)
+- [Email](mailto:kiran.chandrashekhar@gmail.com)
